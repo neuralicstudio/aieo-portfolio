@@ -426,6 +426,9 @@ export default function App() {
                   </div>
 
                   <p className="text-4xl font-bold text-white uppercase tracking-tighter pt-12 leading-none">I help you become<br /> recommendable.</p>
+
+                  <p>I am Ishola Oluwaseyi David, an AI Search Optimization Specialist and founder of NeuralicAI.</p>
+                  <p>I am not affiliated with any political organization or public office. My work focuses on AI systems, automation, and helping brands become discoverable and recommended by modern AI platforms.</p>
                 </div>
               </motion.div>
             </div>
