@@ -150,7 +150,7 @@ export default function App() {
 
           <div className="hidden sm:flex items-center gap-6">
              <span className="text-[10px] font-bold tracking-[0.25em] uppercase opacity-30">NeuralicAI</span>
-             <Button variant="secondary" className="px-5 py-2.5 text-[9px] border-white/10">
+             <Button href="mailto:neuralicstudio@gmail.com" variant="secondary" className="px-5 py-2.5 text-[9px] border-white/10">
                 Contact Me
              </Button>
           </div>
@@ -186,10 +186,10 @@ export default function App() {
                 </div>
 
                 <div className="flex flex-col sm:flex-row gap-6">
-                  <Button variant="primary" className="px-10 py-5">
+                  <Button href="mailto:neuralicstudio@gmail.com" variant="primary" className="px-10 py-5">
                     Book an AI Visibility Audit
                   </Button>
-                  <Button variant="secondary" className="px-10 py-5 border-white/10">
+                  <Button href="mailto:neuralicstudio@gmail.com" variant="secondary" className="px-10 py-5 border-white/10">
                     Work With Me
                   </Button>
                 </div>
@@ -286,7 +286,7 @@ export default function App() {
               <div className="space-y-8 text-lg text-white/50 mb-12 max-w-md">
                 <p>This is a deep analysis of how AI systems perceive your brand across the web. I assess your visibility, authority, and trust signals.</p>
               </div>
-              <Button variant="primary" className="px-12 py-6">
+              <Button href="mailto:neuralicstudio@gmail.com" variant="primary" className="px-12 py-6">
                 Request Audit
               </Button>
             </motion.div>
@@ -446,10 +446,10 @@ export default function App() {
               </div>
               
               <div className="flex flex-col sm:flex-row items-center justify-center gap-8">
-                <Button variant="primary" className="px-16 py-6 text-sm">
+                <Button href="mailto:neuralicstudio@gmail.com" variant="primary" className="px-16 py-6 text-sm">
                   Book an Audit
                 </Button>
-                <Button variant="secondary" className="px-16 py-6 text-sm border-white/10">
+                <Button href="mailto:neuralicstudio@gmail.com" variant="secondary" className="px-16 py-6 text-sm border-white/10">
                   Contact Me
                 </Button>
               </div>
@@ -481,7 +481,7 @@ export default function App() {
              <div className="space-y-4">
                 <p className="text-[10px] font-bold uppercase tracking-[0.4em] text-white/30">Connect</p>
                 <a href="#" className="block text-xs font-bold uppercase tracking-widest text-white/60 hover:text-brand-accent transition-colors">LinkedIn</a>
-                <a href="#" className="block text-xs font-bold uppercase tracking-widest text-white/60 hover:text-brand-accent transition-colors">Twitter</a>
+                <a href="https://x.com/NeuralicAI" target="_blank" rel="noopener noreferrer" className="block text-xs font-bold uppercase tracking-widest text-white/60 hover:text-brand-accent transition-colors">Twitter</a>
              </div>
              <div className="space-y-4">
                 <p className="text-[10px] font-bold uppercase tracking-[0.4em] text-white/30">Company</p>
