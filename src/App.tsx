@@ -462,6 +462,41 @@ export default function App() {
             </motion.div>
           </div>
         </section>
+        {/* ARTICLE SECTION */}
+        <section id="ai-search-optimization" style={{padding: "80px 20px", maxWidth: "900px", margin: "0 auto"}}>
+          <h1>What is AI Search Optimization?</h1>
+          <p>
+            AI Search Optimization (AIEO) is the process of making a brand discoverable, understandable, and recommendable by AI systems like ChatGPT, Claude, Gemini, and Perplexity.
+          </p>
+          <p>
+            Unlike traditional SEO, which focuses on ranking in search engines, AI Search Optimization focuses on whether AI systems trust your brand enough to recommend it.
+          </p>
+          <h2>Why Traditional SEO Is Not Enough</h2>
+          <p>Traditional SEO helps websites rank on search engines like Google.</p>
+          <ul>
+            <li>Clearly defined entity</li>
+            <li>Trusted signals across the web</li>
+            <li>Structured content AI can extract</li>
+          </ul>
+          <h2>How AI Systems Decide What to Recommend</h2>
+          <ul>
+            <li>Entity authority</li>
+            <li>Third-party validation</li>
+            <li>Content structure</li>
+            <li>Consistency across the web</li>
+          </ul>
+          <h2>Key Components of AI Search Optimization</h2>
+          <ul>
+            <li>Entity building</li>
+            <li>Retrieval-friendly content</li>
+            <li>External trust signals</li>
+            <li>Semantic relevance</li>
+          </ul>
+          <h2>Final Thought</h2>
+          <p>The future of discovery is shifting from search to AI.</p>
+          <p>Does AI trust you enough to recommend you?</p>
+          <p><strong>Written by Ishola Oluwaseyi David, AI Search Optimization Specialist.</strong></p>
+        </section>
       </main>
 
       <footer className="py-20 px-6 border-t border-white/10 bg-black">
@@ -498,4 +533,3 @@ export default function App() {
     </div>
   );
 }
-
