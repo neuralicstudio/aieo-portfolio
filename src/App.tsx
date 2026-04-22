@@ -16,7 +16,7 @@ const NAV_LINKS = [
   { name: "About", href: "#about" },
 ];
 
-const ISHOLA_IMAGE = "https://i.postimg.cc/YqVqgf7f/1000287157.png";
+const ISHOLA_IMAGE = "https://i.ibb.co/2Yqk24b5/1000287157.png";
 
 // --- Components ---
 
